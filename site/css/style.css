@@ -149,12 +149,12 @@
         	width: 97%;   	
    		  }
 
-   		  #sushi h2 {
+   	 #sushi h2 {
 		  	margin: 0 0 0 80%;
     		width: 20%;
 		  }
 
-	    }
+	 }
 
 
 		/********** Medium devices only **********/
@@ -203,20 +203,20 @@
 		 
 		 #chicken h2 {
 		  	margin: 0 0 0 70%;
-    		width: 30%;
+    	width: 30%;
 		  }
 
  		 #beef h2 {
 		  	margin: 0 0 0 80%;
-    		width: 20%;
+    	width: 20%;
 		  }
 
  		 
-   		  #sushi h2 {
+   	#sushi h2 {
 		  	margin: 0 0 0 80%;
-    		width: 20%;
-		}
+    	width: 20%;
+		  }
 
 
 
-		}
+	 }
