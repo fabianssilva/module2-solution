@@ -142,15 +142,14 @@
 		  }
 		
  		 #sushi {
-
  		 	clear: left;
-        	margin-left: 10px;
-        	margin-right: 20px;
-        	width: 97%;   	
-   		  }
+     margin-left: 10px;
+     margin-right: 20px;
+     width: 97%;   	
+   	}
 
-   	 #sushi h2 {
-		  	margin: 0 0 0 80%;
+   	#sushi h2 {
+		  	 margin: 0 0 0 80%;
     		width: 20%;
 		  }
 
